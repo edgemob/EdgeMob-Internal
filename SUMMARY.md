@@ -72,3 +72,5 @@
   * [Security Architecture](diagrams/security-architecture.md)
   * [Block diagram](diagrams/block-diagram.md)
 * [Architecture Implementation](architecture-implementation.md)
+* [Benefits](benefits.md)
+* [Cost Analysis](cost-analysis.md)
